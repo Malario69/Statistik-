@@ -1,4 +1,4 @@
-# CLAUDE.md — Steam Achievements Stats
+# CLAUDE.md — Steam Achievements Hub
 
 This repository contains a security-sensitive web application that processes Steam identities, game-library data, achievement progress, and locally persisted history.
 
