@@ -1,8 +1,8 @@
-# Steam Achievements Stats — Project Specification
+# Steam Achievements Hub — Project Specification
 
 ## 1. Product vision
 
-Steam Achievements Stats is a web application for achievement hunters. It combines official Steam player/achievement data with a local historical database and external hunting metadata to answer four questions:
+Steam Achievements Hub is a web application for achievement hunters. It combines official Steam player/achievement data with a local historical database and external hunting metadata to answer four questions:
 
 1. What games and achievements does the user currently have?
 2. Which games are truly complete, and which completions count toward Steam profile showcases?
