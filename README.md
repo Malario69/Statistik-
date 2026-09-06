@@ -1,4 +1,4 @@
-# Steam Achievements Stats
+# Steam Achievements Hub
 
 A web application for Steam achievement hunters: library statistics, achievement progress, historical completion tracking, hunting metadata, guide discovery, and personalized recommendations.
 
